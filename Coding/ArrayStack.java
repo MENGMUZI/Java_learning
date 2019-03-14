@@ -22,7 +22,7 @@ public class ArrayStack {
         if(index == 0){
             return null;
         }
-        return arr[index+1];
+        return arr[index-1];
     }
 
     //压栈
