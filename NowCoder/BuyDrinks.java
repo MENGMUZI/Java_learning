@@ -5,7 +5,7 @@ import java.util.Scanner;
  * create at:  2019-03-19  20:05
  * @description: 华为汽水瓶
  */
-public class BuyDrinks {
+public class BuyDrinks{
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
