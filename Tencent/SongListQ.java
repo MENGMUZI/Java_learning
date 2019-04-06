@@ -29,10 +29,10 @@ public class SongListQ {
                 if((songListLen-indexA*lenA)%lenB == 0 && indexB <= numB) {
                     long CA = factorial(numA) / (factorial(indexA) * factorial(numA - indexA));
                     long CB = factorial(numB) / (factorial(indexB) * factorial(numB - indexB));
-                    result += (CA * CB) % 1000000007;
+                    result += (CA * CB) ;
                 }
             }
-            System.out.println(result);
+            System.out.println(result % 1000000007);
         }
     }
     private static long factorial(int x){
