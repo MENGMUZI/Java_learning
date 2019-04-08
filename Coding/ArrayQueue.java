@@ -41,6 +41,7 @@ public class ArrayQueue {
         int temp = start;//现在的位置才是真正的位置
         start = start == arr.length-1 ? 0 : start +1;
         return arr[temp];
+
     }
 }
 
