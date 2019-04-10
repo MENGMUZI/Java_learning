@@ -103,6 +103,8 @@ public class ArraysReviewDemo {
         //转字符串
         int z[] = {1,3,5,7,2,4,56,2,2,3};
         System.out.println(Arrays.toString(z));//[1, 3, 5, 7, 2, 4, 56, 2, 2, 3]
+
+
         String subStr = Arrays.toString(z).substring(1);
         System.out.println(subStr);
 
