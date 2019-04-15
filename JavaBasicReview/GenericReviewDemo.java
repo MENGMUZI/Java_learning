@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 /**
  * @author : mengmuzi
  * create at:  2019-04-10  22:14
@@ -40,6 +44,25 @@ public class GenericReviewDemo {
         return (p1.getKey().equals(p2.getKey()) && p1.getValue().equals(p2.getValue()));
     }
 
+    //通配符
+     class Fruit{};
+     class Apple extends Fruit{};
+     class Orange extends Fruit{};
+     static class GenericReading{
+        static List<Apple> apples = Arrays.asList(new Apple[10]);
+        static List<Orange> oranges = Arrays.asList(new Orange[10]);
+        static List<Fruit> fruits = Arrays.asList(new Fruit[10]);
+        static class Reader<T>{
+            T readExect(List<? extends T> list){
+                return list.get(0);
+            }
+        }
+        static void function1(){
+            Reader<Fruit> reader = new Reader<>();
+            Fruit f = reader.readExect(apples);//List一定要使用通配符 List<? extends T>
+        }
+    }
+    //PECS原则
     public static void main(String[] args) {
         Box<Integer> boxInt = new Box<>();
         Box<Double> boxDou = new Box<>();
@@ -48,6 +71,11 @@ public class GenericReviewDemo {
         Pair<String,Integer> p2 = new Pair<>("GuMin",25);
         boolean flag = GenericReviewDemo.compare(p1,p2);
         System.out.println(flag);
+
+        List<? extends Fruit> fruitsList = new ArrayList<Apple>();
+        // fruitsList.add(new GenericReviewDemo().new Apple());
+        fruitsList.add(null);
+        Fruit f = fruitsList.get(0);
 
     }
 }
