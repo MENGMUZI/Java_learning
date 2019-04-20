@@ -37,6 +37,7 @@ public class SelectionSort {
             System.out.print(' ');
         }
         System.out.println();
+
     }
 
 }
