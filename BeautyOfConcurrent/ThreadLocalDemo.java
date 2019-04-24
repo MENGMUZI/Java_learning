@@ -6,6 +6,12 @@
  * 这个副本线程 Two 是访问不了的 。
  * 然后代码 3.2 调用了 print 函数，
  * 代码 1.1 通过 get 函数获取了 当前线程(线程 One)本地内存中 localVariable 的值 。
+ *
+ *
+ * 总结：
+ * 在每个线程内部都有一个名为threadLocals 的成员变量，
+ * 该变量的类型为HashMap，其中key为我们定义的ThreadLocal变量的this引用，
+ * value则为我们使用set方法设置的值。
  */
 public class ThreadLocalDemo {
 
