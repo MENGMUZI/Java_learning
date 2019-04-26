@@ -66,6 +66,19 @@ public class SelectionSort_Comparable {
         students[3] = new Student("mengmu",99);
         SelectionSort_Comparable.sort(students);
         SortTestHelper.printArray(students);
+
+        //调用SortTestHelper,创建随机数组
+        Integer[] intarrs = SortTestHelper.generateRandomArray(100,0,400);
+        SelectionSort_Comparable.sort(intarrs);
+        SortTestHelper.printArray(intarrs);
+
+        //调用SortTestHelper,计算排序时间
+        int num = 2000;
+        Integer[] integers = SortTestHelper.generateRandomArray(num,0, num);
+        SelectionSort_Comparable.sort(integers);
+        SortTestHelper.testSort("Sorting_basic.SelectionSort_Comparable",integers);
+
+
     }
 
 
