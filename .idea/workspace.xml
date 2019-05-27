@@ -1,0 +1,1747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/HuaWei/HHWW.java" line="28" mnemonic="0" />
+    <bookmark url="file://$PROJECT_DIR$/HuaWei/HWWT.java" line="15" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/GuiGuInterviewStudy/ContainerNotSafeDemo.java" line="26" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74fdafeb-629c-49a0-82dc-f5061086a06f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JD/JD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JD/JDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasicReview/SynchronizedBottomPrincipleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaConcurrentProgramDesign/MultiThreadLong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterview/OneTurns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterview/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaTest/BooleanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeiTuan/MT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_Advance/MergeSort_BottomUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_Advance/MergeSort_Comparable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/FamilyAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/ForWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/NineNineNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/PrimeNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/ScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/SwitchCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestABCAlternate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestAtomicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestCopyOnWriteArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestCountDownLatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestForkJoinPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestProducerAndConsumerForLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestProductorAndConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestReadWriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestScheduledThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestThread8Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestVolatile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicReview/HashMapReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicReview/HashMapReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/InsertionSort_Comparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/InsertionSort_Comparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/InsertionSort_New.java" beforeDir="false" afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/InsertionSort_New.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SelectionSortVSInsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SelectionSortVSInsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SelectionSortVSNewInsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SelectionSortVSNewInsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SortTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SortTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTest/CollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/GetMInStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTest/GetMInStackTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/mavendemo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Java_learning$RotateMatrixPrinter.ic" NAME="RotateMatrixPrinter Coverage Results" MODIFIED="1552621808323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Java_learning$ThreeNumsSum.ic" NAME="ThreeNumsSum Coverage Results" MODIFIED="1554186365458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="182" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydb2@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydb2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydb2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mydb2: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java_learning" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestProductorAndConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1386">
+              <caret line="81" selection-start-line="7" selection-end-line="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestProducerAndConsumerForLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestABCAlternate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestReadWriteLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestThread8Monitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestThreadPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestScheduledThreadPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestForkJoinPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>n</find>
+      <find>DeepCloneExample</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>target</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d29eb3ba-2485-4459-80ce-43a829d837fa" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/SemaphoreDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/BlockingQueueDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/SynchronousQueueDemo1.java" />
+        <option value="$PROJECT_DIR$/JavaConcurrentProgramDesign/MultiThreadLong.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/SynchronousQueueDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/ProdCunsumer_TraditionalDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/SyncAndReentrantLockDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/ProdConsumer_BlockQueueDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/CallableDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/MyThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/DeadLockDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/DeadLockDemoOne.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/MyJUC/ABADemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/StrongReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/SoftReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/WeakReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/WeakHashMapDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/PhantomReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/StackOverflowErrorDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/JavaHeapSpaceDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/GCOverheadDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/DirectBufferMemeoryDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/UnableCreateNewThreadDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/MetaSpaceDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/GCDemo.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/ReferenceQueueDemo.java" />
+        <option value="$PROJECT_DIR$/SongHongKang_Teaching/ScannerTest.java" />
+        <option value="$PROJECT_DIR$/SongHongKang_Teaching/SwitchCaseTest.java" />
+        <option value="$PROJECT_DIR$/SongHongKang_Teaching/ForTest.java" />
+        <option value="$PROJECT_DIR$/SongHongKang_Teaching/ForWhileTest.java" />
+        <option value="$PROJECT_DIR$/SongHongKang_Teaching/NineNineNumber.java" />
+        <option value="$PROJECT_DIR$/SongHongKang_Teaching/PrimeNumberTest.java" />
+        <option value="$PROJECT_DIR$/SongHongKang_Teaching/Utility.java" />
+        <option value="$PROJECT_DIR$/SongHongKang_Teaching/FamilyAccount.java" />
+        <option value="$PROJECT_DIR$/Test/BooleanTest.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestVolatile.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestAtomicDemo.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestCompareAndSwap.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestCopyOnWriteArrayList.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestCountDownLatch.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestCallable.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestLock.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestProductorAndConsumer.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestProducerAndConsumerForLock.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestABCAlternate.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestReadWriteLock.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestThread8Monitor.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestThreadPool.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestScheduledThreadPool.java" />
+        <option value="$PROJECT_DIR$/com.atguigu.juc/TestForkJoinPool.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mavendemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mavendemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mavendemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="14" />
+    <option name="y" value="26" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="BeautyOfConcurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="com.atguigu.juc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="com.atguigu.juc" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCallable.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="com.atguigu.juc" type="462c0819:PsiDirectoryNode" />
+              <item name="TestProducerAndConsumerForLock.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="JVMAndGC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="AtomicReferenceDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="SongHongKang_Teaching" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558812976627" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.splitter.proportion" value="0.3472222" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Sorting_Advance" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestForkJoinPool.test2">
+    <configuration name="TestForkJoinPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestForkJoinPool" />
+      <module name="Java_learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScheduledThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestScheduledThreadPool" />
+      <module name="Java_learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestThreadPool" />
+      <module name="Java_learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadUnsafeReviewDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadUnsafeReviewDemo" />
+      <module name="Java_learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForkJoinPool.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_learning" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestForkJoinPool" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForkJoinPool.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_learning" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestForkJoinPool" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$USER_HOME$/Downloads/apache-maven-3.6.0" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="MavendemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mavendemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengmuzi.maven.mavendemo.MavendemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53644" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThreadUnsafeReviewDemo" />
+      <item itemvalue="Application.TestThreadPool" />
+      <item itemvalue="Application.TestScheduledThreadPool" />
+      <item itemvalue="Application.TestForkJoinPool" />
+      <item itemvalue="JUnit.TestForkJoinPool.test1" />
+      <item itemvalue="JUnit.TestForkJoinPool.test2" />
+      <item itemvalue="Spring Boot.MavendemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestForkJoinPool.test2" />
+        <item itemvalue="Application.TestForkJoinPool" />
+        <item itemvalue="JUnit.TestForkJoinPool.test1" />
+        <item itemvalue="Application.TestScheduledThreadPool" />
+        <item itemvalue="Application.TestThreadPool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74fdafeb-629c-49a0-82dc-f5061086a06f" name="Default Changelist" comment="" />
+      <created>1552530988636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552530988636</updated>
+      <workItem from="1552530993396" duration="71520000" />
+      <workItem from="1552907506134" duration="32000" />
+      <workItem from="1552915556918" duration="8000" />
+      <workItem from="1552919773528" duration="192000" />
+      <workItem from="1552924599198" duration="27000" />
+      <workItem from="1552924799313" duration="3000" />
+      <workItem from="1552996843218" duration="62177000" />
+      <workItem from="1553400925747" duration="2000" />
+      <workItem from="1553408571523" duration="6000" />
+      <workItem from="1553523118351" duration="10994000" />
+      <workItem from="1553593847423" duration="14257000" />
+      <workItem from="1553623470536" duration="3364000" />
+      <workItem from="1553689306248" duration="16674000" />
+      <workItem from="1553775094196" duration="5793000" />
+      <workItem from="1553849809883" duration="8479000" />
+      <workItem from="1553937902936" duration="42935000" />
+      <workItem from="1554186396536" duration="1999000" />
+      <workItem from="1554211717592" duration="12706000" />
+      <workItem from="1554267804957" duration="73143000" />
+      <workItem from="1554467233539" duration="25569000" />
+      <workItem from="1554688147029" duration="1490000" />
+      <workItem from="1554689994530" duration="7980000" />
+      <workItem from="1554701225682" duration="158000" />
+      <workItem from="1554701464970" duration="21354000" />
+      <workItem from="1554802422393" duration="511000" />
+      <workItem from="1554817870213" duration="25193000" />
+      <workItem from="1554902642341" duration="707000" />
+      <workItem from="1554905484736" duration="6116000" />
+      <workItem from="1554948872407" duration="565000" />
+      <workItem from="1554980230597" duration="11578000" />
+      <workItem from="1555089773071" duration="13045000" />
+      <workItem from="1555176799659" duration="2673000" />
+      <workItem from="1555244450719" duration="8113000" />
+      <workItem from="1555326849372" duration="2576000" />
+      <workItem from="1555387753145" duration="173000" />
+      <workItem from="1555482433545" duration="26830000" />
+      <workItem from="1555681423489" duration="11231000" />
+      <workItem from="1555929882249" duration="255000" />
+      <workItem from="1555952164629" duration="5204000" />
+      <workItem from="1556036437365" duration="38948000" />
+      <workItem from="1556387824831" duration="16933000" />
+      <workItem from="1556863629159" duration="6815000" />
+      <workItem from="1556897277038" duration="53000" />
+      <workItem from="1556897455677" duration="6783000" />
+      <workItem from="1556987072622" duration="4000" />
+      <workItem from="1557166396827" duration="46114000" />
+      <workItem from="1557341702700" duration="75293000" />
+      <workItem from="1557941882654" duration="228000" />
+      <workItem from="1558076721292" duration="143000" />
+      <workItem from="1558283164896" duration="1162000" />
+      <workItem from="1558286359819" duration="15372000" />
+      <workItem from="1558414598525" duration="11525000" />
+      <workItem from="1558468574711" duration="1272000" />
+      <workItem from="1558549196028" duration="35956000" />
+      <workItem from="1558813003812" duration="717000" />
+    </task>
+    <task id="LOCAL-00065" summary="Tencent试题">
+      <created>1554391603886</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1554391603886</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Tencent试题">
+      <created>1554543824060</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1554543824061</updated>
+    </task>
+    <task id="LOCAL-00067" summary="LeetCode刷题">
+      <created>1554572304019</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1554572304019</updated>
+    </task>
+    <task id="LOCAL-00068" summary="GitHub大神">
+      <created>1554656377841</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1554656377842</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Coding左神">
+      <created>1554688836702</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1554688836702</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Cyc2018">
+      <created>1554688872332</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1554688872332</updated>
+    </task>
+    <task id="LOCAL-00071" summary="HuaWei">
+      <created>1554688902102</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1554688902102</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Java基础复习">
+      <created>1554824516797</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1554824516798</updated>
+    </task>
+    <task id="LOCAL-00073" summary="携程考试">
+      <created>1554824552533</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1554824552533</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Java基础复习">
+      <created>1554907548427</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1554907548428</updated>
+    </task>
+    <task id="LOCAL-00075" summary="华为机试">
+      <created>1554907585005</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1554907585005</updated>
+    </task>
+    <task id="LOCAL-00076" summary="IO复习">
+      <created>1555145309311</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1555145309312</updated>
+    </task>
+    <task id="LOCAL-00077" summary="微众银行的题目">
+      <created>1555145345475</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1555145345475</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Default Changelist">
+      <created>1555269823110</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1555269823110</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Default Changelist">
+      <created>1555326939408</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1555326939408</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Default Changelist">
+      <created>1555326965300</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1555326965300</updated>
+    </task>
+    <task id="LOCAL-00081" summary="HashMap的复习">
+      <created>1555328415359</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1555328415359</updated>
+    </task>
+    <task id="LOCAL-00082" summary="LinkedList复习">
+      <created>1555329436253</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1555329436253</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Java并发编程之美读书笔记代码">
+      <created>1555658233786</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1555658233787</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Default Changelist">
+      <created>1555659170046</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1555659170046</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Default Changelist">
+      <created>1555677028306</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1555677028306</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Default Changelist">
+      <created>1555689268722</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1555689268722</updated>
+    </task>
+    <task id="LOCAL-00087" summary="实现选择排序">
+      <created>1555777518884</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1555777518884</updated>
+    </task>
+    <task id="LOCAL-00088" summary="随机生成数组">
+      <created>1555778696868</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1555778696868</updated>
+    </task>
+    <task id="LOCAL-00089" summary="学生类">
+      <created>1555780020318</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1555780020318</updated>
+    </task>
+    <task id="LOCAL-00090" summary="选择排序">
+      <created>1555780601939</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1555780601939</updated>
+    </task>
+    <task id="LOCAL-00091" summary="选择排序（实现Comparable）">
+      <created>1555781316658</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1555781316658</updated>
+    </task>
+    <task id="LOCAL-00092" summary="threadlocal 不支持继承性">
+      <created>1555952284221</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1555952284222</updated>
+    </task>
+    <task id="LOCAL-00093" summary="学生类">
+      <created>1556076965808</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1556076965809</updated>
+    </task>
+    <task id="LOCAL-00094" summary="并发复习">
+      <created>1556128603899</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1556128603900</updated>
+    </task>
+    <task id="LOCAL-00095" summary="插入排序">
+      <created>1556299987667</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1556299987667</updated>
+    </task>
+    <task id="LOCAL-00096" summary="选择排序">
+      <created>1556300029725</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1556300029725</updated>
+    </task>
+    <task id="LOCAL-00097" summary="选择排序和插入排序的比较">
+      <created>1556300063990</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1556300063990</updated>
+    </task>
+    <task id="LOCAL-00098" summary="通用的排序工具类">
+      <created>1556300104922</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1556300104922</updated>
+    </task>
+    <task id="LOCAL-00099" summary="改进后的选择排序">
+      <created>1556301878770</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1556301878770</updated>
+    </task>
+    <task id="LOCAL-00100" summary="选择排序和改进后的插入排序的比较">
+      <created>1556303610214</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1556303610214</updated>
+    </task>
+    <task id="LOCAL-00101" summary="选择排序">
+      <created>1556418724309</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1556418724309</updated>
+    </task>
+    <task id="LOCAL-00102" summary="冒泡排序">
+      <created>1556423960296</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1556423960296</updated>
+    </task>
+    <task id="LOCAL-00103" summary="改进后的选择排序的性能测试">
+      <created>1556423989094</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1556423989094</updated>
+    </task>
+    <task id="LOCAL-00104" summary="选择排序的优化,在每一轮中，可以同时找到当前未处理元素的最大值和最小值">
+      <created>1556424047046</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1556424047046</updated>
+    </task>
+    <task id="LOCAL-00105" summary="冒泡排序改进,记录最后一次的交换位置,在此之后的元素在下一轮扫描中均不考虑">
+      <created>1556425758917</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1556425758917</updated>
+    </task>
+    <task id="LOCAL-00106" summary="比较SelectionSort, InsertionSort和BubbleSort三种排序算法的性能效率">
+      <created>1556428195255</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1556428195255</updated>
+    </task>
+    <task id="LOCAL-00107" summary="归并排序">
+      <created>1556472807129</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1556472807130</updated>
+    </task>
+    <task id="LOCAL-00108" summary="比较InsertionSort和MergeSort两种排序算法的性能效率">
+      <created>1556473399609</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1556473399609</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Java面试宝典">
+      <created>1556901077864</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1556901077865</updated>
+    </task>
+    <task id="LOCAL-00110" summary="阳哥视频">
+      <created>1557242866280</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1557242866281</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Default Changelist">
+      <created>1557338708042</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1557338708042</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Default Changelist">
+      <created>1557404553133</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1557404553134</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Default Changelist">
+      <created>1558417734102</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1558417734103</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 17h 29m 10s.xml">
+      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 17h 30m 34s.xml">
+      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 17h 34m 16s.xml">
+      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 17h 35m 19s.xml">
+      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 20h 06m 54s.xml">
+      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 20h 10m 47s.xml">
+      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestForkJoinPool_test2 - 2019.05.25 at 20h 17m 30s.xml">
+      <configuration name="TestForkJoinPool.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestForkJoinPool_test2 - 2019.05.25 at 20h 17m 53s.xml">
+      <configuration name="TestForkJoinPool.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 20h 18m 01s.xml">
+      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestForkJoinPool_test2 - 2019.05.25 at 20h 18m 20s.xml">
+      <configuration name="TestForkJoinPool.test2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="752950000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="14" y="26" width="1440" height="824" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71850395" visible="true" weight="0.21459228" />
+      <window_info id="Structure" order="1" sideWeight="0.28149608" side_tool="true" weight="0.21173105" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.28149608" side_tool="true" weight="0.21173105" />
+      <window_info id="设计器" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49570817" visible="true" weight="0.30601093" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23013699" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23941368" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50429183" side_tool="true" weight="0.24152543" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31420764" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32960895" />
+      <window_info anchor="bottom" id="提取方法" order="13" weight="0.32833788" />
+      <window_info anchor="bottom" id="Problems" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32863188" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.39881456" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.10801145" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32890856" />
+      <window_info anchor="right" id="调色板" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HashMap的复习" />
+    <MESSAGE value="LinkedList复习" />
+    <MESSAGE value="Java并发编程之美读书笔记代码" />
+    <MESSAGE value="实现选择排序" />
+    <MESSAGE value="随机生成数组" />
+    <MESSAGE value="选择排序（实现Comparable）" />
+    <MESSAGE value="threadlocal 不支持继承性" />
+    <MESSAGE value="学生类" />
+    <MESSAGE value="并发复习" />
+    <MESSAGE value="插入排序" />
+    <MESSAGE value="选择排序和插入排序的比较" />
+    <MESSAGE value="通用的排序工具类" />
+    <MESSAGE value="改进后的选择排序" />
+    <MESSAGE value="选择排序和改进后的插入排序的比较" />
+    <MESSAGE value="选择排序" />
+    <MESSAGE value="冒泡排序" />
+    <MESSAGE value="改进后的选择排序的性能测试" />
+    <MESSAGE value="选择排序的优化,在每一轮中，可以同时找到当前未处理元素的最大值和最小值" />
+    <MESSAGE value="冒泡排序改进,记录最后一次的交换位置,在此之后的元素在下一轮扫描中均不考虑" />
+    <MESSAGE value="比较SelectionSort, InsertionSort和BubbleSort三种排序算法的性能效率" />
+    <MESSAGE value="归并排序" />
+    <MESSAGE value="比较InsertionSort和MergeSort两种排序算法的性能效率" />
+    <MESSAGE value="Java面试宝典" />
+    <MESSAGE value="阳哥视频" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JD/JD.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1308</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/InheritableThreadLocalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/InterruptDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/InterruptDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/DaemonThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/CopyOnWriteArrayListTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/AtomicLongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/GCDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/NonReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/GCOverheadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/PhantomReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="306" column="50" selection-start-line="306" selection-start-column="50" selection-end-line="306" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.System">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.System</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.System</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="47.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java_learning.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/WeakReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/InterruptDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/DirectBufferMemeoryDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/fd29044d-918f-468c-90f4-765a9023a9e3/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/255794c0-4428-4463-9690-ddcd1a91a633/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/27c0b663-7a4a-4896-905c-2a25a49176da/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://27c0b663-7a4a-4896-905c-2a25a49176da/schema/mydb2/table/dept">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://27c0b663-7a4a-4896-905c-2a25a49176da/schema/mydb2/table/dept.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="487" selection-start-line="487" selection-end-line="487" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/ReferenceQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SongHongKang_Teaching/FamilyAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="58" column="42" lean-forward="true" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTest/BooleanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SongHongKang_Teaching/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="80" column="20" lean-forward="true" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SongHongKang_Teaching/PrimeNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SongHongKang_Teaching/NineNineNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SongHongKang_Teaching/ForWhileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SongHongKang_Teaching/ForTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SongHongKang_Teaching/SwitchCaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SongHongKang_Teaching/ScannerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/AtomicReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/CASDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/ContainerNotSafeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestCompareAndSwap.java" />
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestAtomicDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestCopyOnWriteArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestCountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestProductorAndConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="81" selection-start-line="7" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestProducerAndConsumerForLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestABCAlternate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestThread8Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestScheduledThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestForkJoinPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java_learning</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

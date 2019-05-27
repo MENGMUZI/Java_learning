@@ -33,7 +33,7 @@ public class SelectionSortVSNewInsertionSort {
         SortTestHelper.testSort("Sorting_basic.InsertionSort_New",arr2);
         System.out.println();//SelectionSort_Comparable:359ms ; InsertionSort_New:1ms
 
-        //3.测试近乎有序的数组
+        //3.测试近乎有序的数组（插入排序在这种情况下，性能非常高！！！！）
         int swapTimes = 100;
         System.out.println("Test for nearly ordered array, size = " + N + " , swap time = " + swapTimes);
         arr1 = SortTestHelper.generateNearlyOrderedArray(N,swapTimes);

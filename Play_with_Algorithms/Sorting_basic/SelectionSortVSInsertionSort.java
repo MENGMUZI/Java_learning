@@ -16,6 +16,7 @@ public class SelectionSortVSInsertionSort {
         System.out.println("Test for random array, size = " + N + " , random range [0, " + N + "]");
         Integer[] arr1 = SortTestHelper.generateRandomArray(N,0,N);
         Integer[] arr2 = Arrays.copyOf(arr1,arr1.length);//是深拷贝
+        Integer[] arr3 = Arrays.copyOf(arr1,arr1.length);
 
         SortTestHelper.testSort("Sorting_basic.InsertionSort_Comparable",arr1);
         SortTestHelper.testSort("Sorting_basic.SelectionSort_Comparable",arr2);
