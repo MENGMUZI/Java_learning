@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/JavaConcurrentProgramDesign" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SongHongKang_Teaching" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/com.atguigu.juc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NIO" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

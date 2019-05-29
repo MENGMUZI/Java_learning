@@ -7,56 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74fdafeb-629c-49a0-82dc-f5061086a06f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JD/JD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JD/JDTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBasicReview/SynchronizedBottomPrincipleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaConcurrentProgramDesign/MultiThreadLong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInterview/OneTurns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInterview/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaTest/BooleanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MeiTuan/MT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_Advance/MergeSort_BottomUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_Advance/MergeSort_Comparable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/FamilyAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/ForTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/ForWhileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/NineNineNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/PrimeNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/ScannerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/SwitchCaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SongHongKang_Teaching/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestABCAlternate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestAtomicDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestCopyOnWriteArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestCountDownLatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestForkJoinPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestProducerAndConsumerForLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestProductorAndConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestReadWriteLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestScheduledThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestThread8Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.atguigu.juc/TestVolatile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasicReview/HashMapReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicReview/HashMapReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NIO/TestBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/InsertionSort_Comparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/InsertionSort_Comparable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/InsertionSort_New.java" beforeDir="false" afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/InsertionSort_New.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SelectionSortVSInsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SelectionSortVSInsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SelectionSortVSNewInsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SelectionSortVSNewInsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SortTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Play_with_Algorithms/Sorting_basic/SortTestHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTest/CollectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/GetMInStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTest/GetMInStackTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -115,116 +68,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestCallable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestProductorAndConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1386">
-              <caret line="81" selection-start-line="7" selection-end-line="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestProducerAndConsumerForLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestABCAlternate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestReadWriteLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestThread8Monitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestThreadPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestScheduledThreadPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestForkJoinPool.java">
+        <entry file="file://$PROJECT_DIR$/NIO/TestBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+            <state relative-caret-position="531">
+              <caret line="134" column="57" lean-forward="true" selection-start-line="134" selection-start-column="57" selection-end-line="134" selection-end-column="57" />
               <folding>
+                <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="262" column="15" selection-start-line="262" selection-start-column="15" selection-end-line="262" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/nio/Buffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="563">
+              <caret line="190" column="48" selection-start-line="190" selection-start-column="48" selection-end-line="190" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -257,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/SemaphoreDemo.java" />
         <option value="$PROJECT_DIR$/GuiGuInterviewStudy/BlockingQueueDemo.java" />
         <option value="$PROJECT_DIR$/GuiGuInterviewStudy/SynchronousQueueDemo1.java" />
         <option value="$PROJECT_DIR$/JavaConcurrentProgramDesign/MultiThreadLong.java" />
@@ -308,6 +177,7 @@
         <option value="$PROJECT_DIR$/com.atguigu.juc/TestThreadPool.java" />
         <option value="$PROJECT_DIR$/com.atguigu.juc/TestScheduledThreadPool.java" />
         <option value="$PROJECT_DIR$/com.atguigu.juc/TestForkJoinPool.java" />
+        <option value="$PROJECT_DIR$/NIO/TestBuffer.java" />
       </list>
     </option>
   </component>
@@ -346,11 +216,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="14" />
-    <option name="y" value="26" />
-    <option name="width" value="1440" />
-    <option name="height" value="824" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1319" />
+    <option name="y" value="-42" />
+    <option name="width" value="1275" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -358,6 +228,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -428,8 +300,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -440,7 +310,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558812976627" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559141621573" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -474,28 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestForkJoinPool.test2">
-    <configuration name="TestForkJoinPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestForkJoinPool" />
-      <module name="Java_learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestScheduledThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestScheduledThreadPool" />
-      <module name="Java_learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestThreadPool" />
-      <module name="Java_learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestBuffer.test3">
     <configuration name="ThreadUnsafeReviewDemo" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreadUnsafeReviewDemo" />
       <module name="Java_learning" />
@@ -503,11 +352,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestForkJoinPool.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestBuffer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_learning" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestForkJoinPool" />
+      <option name="MAIN_CLASS_NAME" value="TestBuffer" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuffer.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_learning" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBuffer" />
       <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuffer.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_learning" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBuffer" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuffer.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_learning" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBuffer" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -617,20 +495,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.ThreadUnsafeReviewDemo" />
-      <item itemvalue="Application.TestThreadPool" />
-      <item itemvalue="Application.TestScheduledThreadPool" />
-      <item itemvalue="Application.TestForkJoinPool" />
-      <item itemvalue="JUnit.TestForkJoinPool.test1" />
       <item itemvalue="JUnit.TestForkJoinPool.test2" />
       <item itemvalue="Spring Boot.MavendemoApplication" />
+      <item itemvalue="JUnit.TestBuffer" />
+      <item itemvalue="JUnit.TestBuffer.test1" />
+      <item itemvalue="JUnit.TestBuffer.test2" />
+      <item itemvalue="JUnit.TestBuffer.test3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestBuffer.test3" />
+        <item itemvalue="JUnit.TestBuffer.test2" />
+        <item itemvalue="JUnit.TestBuffer.test1" />
+        <item itemvalue="JUnit.TestBuffer" />
         <item itemvalue="JUnit.TestForkJoinPool.test2" />
-        <item itemvalue="Application.TestForkJoinPool" />
-        <item itemvalue="JUnit.TestForkJoinPool.test1" />
-        <item itemvalue="Application.TestScheduledThreadPool" />
-        <item itemvalue="Application.TestThreadPool" />
       </list>
     </recent_temporary>
   </component>
@@ -702,6 +580,8 @@
       <workItem from="1558468574711" duration="1272000" />
       <workItem from="1558549196028" duration="35956000" />
       <workItem from="1558813003812" duration="717000" />
+      <workItem from="1558973287414" duration="114000" />
+      <workItem from="1559119434404" duration="9195000" />
     </task>
     <task id="LOCAL-00065" summary="Tencent试题">
       <created>1554391603886</created>
@@ -1050,39 +930,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 17h 29m 10s.xml">
-      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    <history-entry file="TestBuffer_test1 - 2019.05.29 at 21h 06m 53s.xml">
+      <configuration name="TestBuffer.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 17h 30m 34s.xml">
-      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    <history-entry file="TestBuffer_test1 - 2019.05.29 at 21h 08m 43s.xml">
+      <configuration name="TestBuffer.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 17h 34m 16s.xml">
-      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    <history-entry file="TestBuffer_test1 - 2019.05.29 at 21h 17m 19s.xml">
+      <configuration name="TestBuffer.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 17h 35m 19s.xml">
-      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    <history-entry file="TestBuffer_test1 - 2019.05.29 at 21h 24m 10s.xml">
+      <configuration name="TestBuffer.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 20h 06m 54s.xml">
-      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    <history-entry file="TestBuffer_test1 - 2019.05.29 at 21h 27m 17s.xml">
+      <configuration name="TestBuffer.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 20h 10m 47s.xml">
-      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    <history-entry file="TestBuffer_test1 - 2019.05.29 at 21h 27m 40s.xml">
+      <configuration name="TestBuffer.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestForkJoinPool_test2 - 2019.05.25 at 20h 17m 30s.xml">
-      <configuration name="TestForkJoinPool.test2" configurationId="JUnit" />
+    <history-entry file="TestBuffer_test2 - 2019.05.29 at 21h 37m 00s.xml">
+      <configuration name="TestBuffer.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestForkJoinPool_test2 - 2019.05.25 at 20h 17m 53s.xml">
-      <configuration name="TestForkJoinPool.test2" configurationId="JUnit" />
+    <history-entry file="TestBuffer_test2 - 2019.05.29 at 21h 44m 29s.xml">
+      <configuration name="TestBuffer.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestForkJoinPool_test1 - 2019.05.25 at 20h 18m 01s.xml">
-      <configuration name="TestForkJoinPool.test1" configurationId="JUnit" />
+    <history-entry file="TestBuffer_test2 - 2019.05.29 at 21h 45m 58s.xml">
+      <configuration name="TestBuffer.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestForkJoinPool_test2 - 2019.05.25 at 20h 18m 20s.xml">
-      <configuration name="TestForkJoinPool.test2" configurationId="JUnit" />
+    <history-entry file="TestBuffer_test2 - 2019.05.29 at 21h 50m 53s.xml">
+      <configuration name="TestBuffer.test2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="752950000" />
+    <option name="totallyTimeSpent" value="762259000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1094,10 +974,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="26" width="1440" height="824" extended-state="0" />
+    <frame x="1319" y="-42" width="1275" height="1004" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71850395" visible="true" weight="0.21459228" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.71850395" visible="true" weight="0.24979724" />
       <window_info id="Structure" order="1" sideWeight="0.28149608" side_tool="true" weight="0.21173105" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1107,12 +987,12 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49570817" visible="true" weight="0.30601093" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49570817" visible="true" weight="0.30592105" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23013699" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23941368" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.123903506" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50429183" side_tool="true" weight="0.24152543" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.31420764" />
@@ -1235,27 +1115,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/InheritableThreadLocalDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/InterruptDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/InterruptDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/DaemonThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1379,20 +1238,8 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/27c0b663-7a4a-4896-905c-2a25a49176da/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="das://27c0b663-7a4a-4896-905c-2a25a49176da/schema/mydb2/table/dept">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://27c0b663-7a4a-4896-905c-2a25a49176da/schema/mydb2/table/dept.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://27c0b663-7a4a-4896-905c-2a25a49176da/schema/mydb2/table/dept" />
+    <entry file="das://27c0b663-7a4a-4896-905c-2a25a49176da/schema/mydb2/table/dept.sql" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -1625,7 +1472,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestScheduledThreadPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="378">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1635,9 +1482,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestForkJoinPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        <state relative-caret-position="360">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
           <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="262" column="15" selection-start-line="262" selection-start-column="15" selection-end-line="262" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="190" column="48" selection-start-line="190" selection-start-column="48" selection-end-line="190" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIO/TestBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="134" column="57" lean-forward="true" selection-start-line="134" selection-start-column="57" selection-end-line="134" selection-end-column="57" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
