@@ -7,9 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74fdafeb-629c-49a0-82dc-f5061086a06f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NIO/TestNonBlockingNIO2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NIO/TestPipe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/TestNonBlockingNIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/TestNonBlockingNIO.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -114,11 +113,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NIO/TestNonBlockingNIO2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1584">
+            <state relative-caret-position="483">
               <caret line="88" column="27" lean-forward="true" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NIO/TestPipe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/SyncAndReentrantLockDemo.java" />
         <option value="$PROJECT_DIR$/GuiGuInterviewStudy/ProdConsumer_BlockQueueDemo.java" />
         <option value="$PROJECT_DIR$/GuiGuInterviewStudy/CallableDemo.java" />
         <option value="$PROJECT_DIR$/GuiGuInterviewStudy/MyThreadPoolDemo.java" />
@@ -218,6 +228,7 @@
         <option value="$PROJECT_DIR$/NIO/TestBlockingNIO2.java" />
         <option value="$PROJECT_DIR$/NIO/TestNonBlockingNIO.java" />
         <option value="$PROJECT_DIR$/NIO/TestNonBlockingNIO2.java" />
+        <option value="$PROJECT_DIR$/NIO/TestPipe.java" />
       </list>
     </option>
   </component>
@@ -355,7 +366,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559406290378" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559407875262" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -393,7 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestNonBlockingNIO.client">
+  <component name="RunManager" selected="JUnit.TestPipe">
     <configuration name="ThreadUnsafeReviewDemo" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreadUnsafeReviewDemo" />
       <module name="Java_learning" />
@@ -421,16 +432,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBlockingNIO.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_learning" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestBlockingNIO" />
-      <option name="METHOD_NAME" value="client" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestNonBlockingNIO.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_learning" />
       <option name="PACKAGE_NAME" value="" />
@@ -447,6 +448,15 @@
       <option name="MAIN_CLASS_NAME" value="TestNonBlockingNIO" />
       <option name="METHOD_NAME" value="server" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPipe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_learning" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPipe" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -546,19 +556,19 @@
     <list>
       <item itemvalue="Application.ThreadUnsafeReviewDemo" />
       <item itemvalue="Spring Boot.MavendemoApplication" />
-      <item itemvalue="JUnit.TestBlockingNIO.client" />
       <item itemvalue="JUnit.TestBlockingNIO2.server" />
       <item itemvalue="JUnit.TestBlockingNIO2.client" />
       <item itemvalue="JUnit.TestNonBlockingNIO.server" />
       <item itemvalue="JUnit.TestNonBlockingNIO.client" />
+      <item itemvalue="JUnit.TestPipe" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestPipe" />
         <item itemvalue="JUnit.TestNonBlockingNIO.client" />
         <item itemvalue="JUnit.TestNonBlockingNIO.server" />
         <item itemvalue="JUnit.TestBlockingNIO2.client" />
         <item itemvalue="JUnit.TestBlockingNIO2.server" />
-        <item itemvalue="JUnit.TestBlockingNIO.client" />
       </list>
     </recent_temporary>
   </component>
@@ -633,7 +643,7 @@
       <workItem from="1558973287414" duration="114000" />
       <workItem from="1559119434404" duration="9567000" />
       <workItem from="1559150338843" duration="7955000" />
-      <workItem from="1559228850467" duration="24639000" />
+      <workItem from="1559228850467" duration="25561000" />
     </task>
     <task id="LOCAL-00065" summary="Tencent试题">
       <created>1554391603886</created>
@@ -1014,7 +1024,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="795225000" />
+    <option name="totallyTimeSpent" value="796147000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1039,12 +1049,12 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329235" />
-      <window_info anchor="bottom" x="1461" y="345" width="1214" height="215" id="Run" order="2" sideWeight="0.4950425" visible="true" weight="0.18549223" />
+      <window_info anchor="bottom" x="1461" y="345" width="1214" height="215" id="Run" order="2" sideWeight="0.4950425" weight="0.18549223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23013699" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.11566265" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.11502591" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5049575" side_tool="true" weight="0.23360656" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.31420764" />
@@ -1167,13 +1177,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BeautyOfConcurrent/InterruptDemo4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1539,8 +1542,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NIO/TestNonBlockingNIO2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
+        <state relative-caret-position="483">
           <caret line="88" column="27" lean-forward="true" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIO/TestPipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
