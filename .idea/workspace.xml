@@ -7,13 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74fdafeb-629c-49a0-82dc-f5061086a06f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NIO/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NIO/TestBlockingNIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NIO/TestBlockingNIO2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NIO/TestNonBlockingNIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NIO/TestNonBlockingNIO2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/TestChannel.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/TestChannel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_learning/TestChannel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_learning/TestChannel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/TestNonBlockingNIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/TestNonBlockingNIO.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -97,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NIO/TestBlockingNIO2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="954">
-              <caret line="93" column="38" lean-forward="true" selection-start-line="93" selection-start-column="38" selection-end-line="93" selection-end-column="38" />
+            <state relative-caret-position="2304">
+              <caret line="137" column="26" selection-start-line="137" selection-end-line="138" />
             </state>
           </provider>
         </entry>
@@ -109,8 +105,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NIO/TestNonBlockingNIO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="89" column="23" lean-forward="true" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+            <state relative-caret-position="-39">
+              <caret line="95" column="21" lean-forward="true" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NIO/TestNonBlockingNIO2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1584">
+              <caret line="88" column="27" lean-forward="true" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/ProdCunsumer_TraditionalDemo.java" />
         <option value="$PROJECT_DIR$/GuiGuInterviewStudy/SyncAndReentrantLockDemo.java" />
         <option value="$PROJECT_DIR$/GuiGuInterviewStudy/ProdConsumer_BlockQueueDemo.java" />
         <option value="$PROJECT_DIR$/GuiGuInterviewStudy/CallableDemo.java" />
@@ -210,6 +217,7 @@
         <option value="$PROJECT_DIR$/NIO/TestBlockingNIO.java" />
         <option value="$PROJECT_DIR$/NIO/TestBlockingNIO2.java" />
         <option value="$PROJECT_DIR$/NIO/TestNonBlockingNIO.java" />
+        <option value="$PROJECT_DIR$/NIO/TestNonBlockingNIO2.java" />
       </list>
     </option>
   </component>
@@ -248,9 +256,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="-86" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -345,7 +355,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559328406475" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559406290378" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -623,7 +633,7 @@
       <workItem from="1558973287414" duration="114000" />
       <workItem from="1559119434404" duration="9567000" />
       <workItem from="1559150338843" duration="7955000" />
-      <workItem from="1559228850467" duration="19669000" />
+      <workItem from="1559228850467" duration="24639000" />
     </task>
     <task id="LOCAL-00065" summary="Tencent试题">
       <created>1554391603886</created>
@@ -1004,7 +1014,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="790255000" />
+    <option name="totallyTimeSpent" value="795225000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1016,10 +1026,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="23" width="1256" height="824" extended-state="0" />
+    <frame x="1440" y="-86" width="1440" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71850395" visible="true" weight="0.21581548" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.71850395" visible="true" weight="0.1874106" />
       <window_info id="Structure" order="1" sideWeight="0.28149608" side_tool="true" weight="0.21173105" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1029,12 +1039,12 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329235" />
-      <window_info active="true" anchor="bottom" x="1461" y="345" width="1214" height="215" id="Run" order="2" sideWeight="0.4950425" visible="true" weight="0.29371583" />
+      <window_info anchor="bottom" x="1461" y="345" width="1214" height="215" id="Run" order="2" sideWeight="0.4950425" visible="true" weight="0.18549223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23013699" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.11625404" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.11566265" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5049575" side_tool="true" weight="0.23360656" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.31420764" />
@@ -1157,13 +1167,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/WeakReferenceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1517,20 +1520,30 @@
     <entry file="file://$PROJECT_DIR$/NIO/test5.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/NIO/TestBlockingNIO2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="137" column="26" selection-start-line="137" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NIO/TestNonBlockingNIO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="89" column="23" lean-forward="true" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+        <state relative-caret-position="-39">
+          <caret line="95" column="21" lean-forward="true" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NIO/TestBlockingNIO2.java">
+    <entry file="file://$PROJECT_DIR$/NIO/TestNonBlockingNIO2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="954">
-          <caret line="93" column="38" lean-forward="true" selection-start-line="93" selection-start-column="38" selection-end-line="93" selection-end-column="38" />
+        <state relative-caret-position="1584">
+          <caret line="88" column="27" lean-forward="true" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

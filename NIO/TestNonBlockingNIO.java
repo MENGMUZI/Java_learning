@@ -128,7 +128,7 @@ public class TestNonBlockingNIO {//非阻塞式
                         ByteBuffer buf = ByteBuffer.allocate(1024);
 
                         int len = 0;
-                        while((len = sChannel.read(buf)) != -1){
+                        while((len = sChannel.read(buf)) != -1){//从该通道读取到给定缓冲区的字节序列
                             buf.flip();
                             System.out.println(new String(buf.array(),0,len));
                             buf.clear();
