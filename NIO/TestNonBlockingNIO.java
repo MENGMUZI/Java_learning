@@ -144,6 +144,7 @@ public class TestNonBlockingNIO {//非阻塞式
         } catch (IOException e) {
 
             e.printStackTrace();
+
         }finally {
             if(sChannel != null){
                 try {

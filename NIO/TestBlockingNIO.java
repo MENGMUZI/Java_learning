@@ -16,7 +16,7 @@ import java.nio.file.StandardOpenOption;
  *  一、使用NIO 完成网络通信的三个核心：
  *  1、通道(Channel):负责连接
  *      java.nio.channels.Channel 接口：
- *      |--SelecttableChannel
+ *      |--SelectableChannel
  *          |--SocketChannel
  *          |--ServerSocketChannel
  *          |--DatagramChannel
@@ -30,7 +30,7 @@ import java.nio.file.StandardOpenOption;
  *
  *
  */
-public class TestBlockingNIO {//阻塞式NIO
+public class TestBlockingNIO {//阻塞式NIO,没有使用selector
     //客户端
     @Test
     public void client(){
