@@ -22,5 +22,6 @@ public class HelloGC {
         //最大内存量一般为本机内存的1/4
         System.out.println("MAX_MEMORY(-Xmx) =" + maxMemory + "(字节)、" + (maxMemory / (double)1024) / 1024 + "MB");
         */
+
     }
 }
