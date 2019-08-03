@@ -35,7 +35,8 @@ import java.nio.ByteBuffer;
  *
  * 四、直接缓冲区与非直接缓冲区:
  *    非直接缓冲区：通过allocate()方法分配缓冲区，将缓冲区建立在JVM的内存中。
- *    直接缓冲区：通过allocationDirect()方法分配直接缓冲区，将缓冲区建立在物理内存中。可以提高效率
+ *    直接缓冲区：通过allocateDirect()方法分配直接缓冲区，将缓冲区建立在物理内存中。可以提高效率
+ *
  *  此方法返回的缓冲区进行分配和取消分配所需成本通常高于非直接缓冲区。
  *  直接缓冲区的内容可以驻留在常规的垃圾回收堆之外.
  *  将直接缓冲区主要分配给那些易受基础系统的本机 I/O 操作影响的大型、持久的缓冲区。
@@ -54,6 +55,7 @@ public class TestBuffer {
         System.out.println(buf.position());//0
         System.out.println(buf.limit());//1024
         System.out.println(buf.capacity());//1024
+
 
         //2.利用put()存放数据到缓冲区中
         buf.put(str.getBytes());

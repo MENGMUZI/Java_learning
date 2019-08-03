@@ -6,7 +6,7 @@ import java.util.concurrent.*;
  * @author : mengmuzi
  * create at:  2019-05-25  15:26
  * @description: 线程池
- * 一、线程池：提供一个线程队列，队列中保存着所有等待状态的线程，避免了创建和销毁的额外开销，提高了响应的速度
+ *  * 一、线程池：提供一个线程队列，队列中保存着所有等待状态的线程，避免了创建和销毁的额外开销，提高了响应的速度
  *
  * 二、线程池的体系结构：
  *      java.util.concurrent.Executor :负责线程的使用与调度的根接口
@@ -61,6 +61,8 @@ public class TestThreadPool {
             }
         }
         threadPool.shutdown();
+
+
     }
 
 }
