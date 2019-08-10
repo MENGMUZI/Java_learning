@@ -11,6 +11,7 @@ import java.util.Stack;
 public class HHWW2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        int number = scanner.nextInt();
         while(scanner.hasNextLine()){
             String str = scanner.next();
             Stack<Character> stack = new Stack<>();

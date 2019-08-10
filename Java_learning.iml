@@ -30,6 +30,9 @@
       <sourceFolder url="file://$MODULE_DIR$/ZhouYu_HashMap_ConcurrentHashMap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Review" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/WangYi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Xiaoyuan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trendcy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/shell" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -6,25 +6,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74fdafeb-629c-49a0-82dc-f5061086a06f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WangYi/TestXXX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WangYi/WangYi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WangYi/WangYi4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WangYi/WangYiTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WangYi/TrendTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xiaoyuan/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xiaoyuan/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shell/ShellTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shell/ShellTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shell/ShellTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shell/ShellTest04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java" beforeDir="false" afterPath="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HuaWei/HHWW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/HuaWei/HHWW2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/TestBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/TestBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tencent/TestTencent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tencent/TestTencent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZhouYu_HashMap_ConcurrentHashMap/HashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZhouYu_HashMap_ConcurrentHashMap/HashMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytedance/ByteDance01.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytedance/ByteDance01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytedance/ByteDance02.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytedance/ByteDance02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytedance/ByteDance03.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytedance/ByteDance03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.atguigu.juc/TestThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.atguigu.juc/TestThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_learning/HHWW2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_learning/HHWW2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_learning/JVMAndGC/HelloGC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_learning/JVMAndGC/HelloGC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_learning/MyThreadPoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_learning/MyThreadPoolDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_learning/TestBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_learning/TestBuffer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_learning/TestTencent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_learning/TestTencent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_learning/TestThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_learning/TestThreadPool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_learning/ThreadPoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_learning/ThreadPoolDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -84,19 +78,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WangYi/WangYiTest1.java">
+        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="308">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WangYi/WangYi2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/CallableDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            <state relative-caret-position="206">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/MyThreadPoolDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="35" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/VolatileDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shell/ShellTest01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shell/ShellTest03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,13 +135,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WangYi/WangYi4.java">
+        <entry file="file://$PROJECT_DIR$/shell/ShellTest02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="180">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shell/ShellTest04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestThread8Monitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-79">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/SemaphoreDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -144,16 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/UnableCreateNewThreadDemo.java" />
-        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/MetaSpaceDemo.java" />
-        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/GCDemo.java" />
-        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/ReferenceQueueDemo.java" />
-        <option value="$PROJECT_DIR$/SongHongKang_Teaching/ScannerTest.java" />
-        <option value="$PROJECT_DIR$/SongHongKang_Teaching/SwitchCaseTest.java" />
-        <option value="$PROJECT_DIR$/SongHongKang_Teaching/ForTest.java" />
-        <option value="$PROJECT_DIR$/SongHongKang_Teaching/ForWhileTest.java" />
-        <option value="$PROJECT_DIR$/SongHongKang_Teaching/NineNineNumber.java" />
-        <option value="$PROJECT_DIR$/SongHongKang_Teaching/PrimeNumberTest.java" />
         <option value="$PROJECT_DIR$/SongHongKang_Teaching/Utility.java" />
         <option value="$PROJECT_DIR$/SongHongKang_Teaching/FamilyAccount.java" />
         <option value="$PROJECT_DIR$/Test/BooleanTest.java" />
@@ -182,7 +229,6 @@
         <option value="$PROJECT_DIR$/bytedance/ByteDance02.java" />
         <option value="$PROJECT_DIR$/bytedance/ByteDance03.java" />
         <option value="$PROJECT_DIR$/ZhouYu_HashMap_ConcurrentHashMap/HashMapTest.java" />
-        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java" />
         <option value="$PROJECT_DIR$/Tencent/TestTencent.java" />
         <option value="$PROJECT_DIR$/com.atguigu.juc/TestThreadPool.java" />
         <option value="$PROJECT_DIR$/GuiGuInterviewStudy/MyThreadPoolDemo.java" />
@@ -195,6 +241,17 @@
         <option value="$PROJECT_DIR$/WangYi/WangYi2.java" />
         <option value="$PROJECT_DIR$/WangYi/Test.java" />
         <option value="$PROJECT_DIR$/WangYi/TestXXX.java" />
+        <option value="$PROJECT_DIR$/HuaWei/HHWW2.java" />
+        <option value="$PROJECT_DIR$/Xiaoyuan/Test03.java" />
+        <option value="$PROJECT_DIR$/Xiaoyuan/Test1.java" />
+        <option value="$PROJECT_DIR$/Xiaoyuan/Test14.java" />
+        <option value="$PROJECT_DIR$/Xiaoyuan/Test04.java" />
+        <option value="$PROJECT_DIR$/WangYi/TrendTest01.java" />
+        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java" />
+        <option value="$PROJECT_DIR$/shell/ShellTest01.java" />
+        <option value="$PROJECT_DIR$/shell/ShellTest03.java" />
+        <option value="$PROJECT_DIR$/shell/ShellTest02.java" />
+        <option value="$PROJECT_DIR$/shell/ShellTest04.java" />
       </list>
     </option>
   </component>
@@ -234,10 +291,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="195" />
-    <option name="y" value="89" />
+    <option name="x" value="-6" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="939" />
+    <option name="height" value="824" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -245,13 +302,52 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="com.atguigu.juc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="com.atguigu.juc" type="462c0819:PsiDirectoryNode" />
+              <item name="TestThread8Monitor.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="JVMAndGC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="CallableDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="VolatileDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="shell" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
@@ -266,7 +362,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,7 +373,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564824093129" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565442027042" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -315,9 +411,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestXXX">
-    <configuration name="TestXXX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestXXX" />
+  <component name="RunManager" selected="Application.ShellTest04">
+    <configuration name="ShellTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShellTest01" />
+      <module name="Java_learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShellTest02" />
+      <module name="Java_learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShellTest03" />
+      <module name="Java_learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShellTest04" />
       <module name="Java_learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -330,36 +447,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WangYi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WangYi2" />
+    <configuration name="VolatileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VolatileDemo" />
       <module name="Java_learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WangYiTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WangYiTest1" />
-      <module name="Java_learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNonBlockingNIO.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_learning" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestNonBlockingNIO" />
-      <option name="METHOD_NAME" value="client" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNonBlockingNIO.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_learning" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestNonBlockingNIO" />
-      <option name="METHOD_NAME" value="server" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -458,20 +548,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.ThreadUnsafeReviewDemo" />
-      <item itemvalue="JUnit.TestNonBlockingNIO.server" />
-      <item itemvalue="JUnit.TestNonBlockingNIO.client" />
       <item itemvalue="Spring Boot.MavendemoApplication" />
-      <item itemvalue="Application.WangYiTest1" />
-      <item itemvalue="Application.WangYi2" />
-      <item itemvalue="Application.TestXXX" />
+      <item itemvalue="Application.VolatileDemo" />
+      <item itemvalue="Application.ShellTest01" />
+      <item itemvalue="Application.ShellTest03" />
+      <item itemvalue="Application.ShellTest02" />
+      <item itemvalue="Application.ShellTest04" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestXXX" />
-        <item itemvalue="Application.WangYi2" />
-        <item itemvalue="Application.WangYiTest1" />
-        <item itemvalue="JUnit.TestNonBlockingNIO.client" />
-        <item itemvalue="JUnit.TestNonBlockingNIO.server" />
+        <item itemvalue="Application.ShellTest04" />
+        <item itemvalue="Application.ShellTest02" />
+        <item itemvalue="Application.ShellTest03" />
+        <item itemvalue="Application.ShellTest01" />
+        <item itemvalue="Application.VolatileDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -558,6 +648,9 @@
       <workItem from="1563346424910" duration="6991000" />
       <workItem from="1563365404746" duration="647000" />
       <workItem from="1564814662192" duration="4494000" />
+      <workItem from="1564829430447" duration="4150000" />
+      <workItem from="1565261056555" duration="5686000" />
+      <workItem from="1565331871383" duration="13195000" />
     </task>
     <task id="LOCAL-00065" summary="Tencent试题">
       <created>1554391603886</created>
@@ -938,7 +1031,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="849191000" />
+    <option name="totallyTimeSpent" value="872222000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -950,11 +1043,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="89" width="1440" height="939" extended-state="0" />
+    <frame x="-6" y="23" width="1440" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8016529" visible="true" weight="0.2732475" />
-      <window_info id="Structure" order="1" sideWeight="0.1983471" side_tool="true" visible="true" weight="0.2732475" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7975986" visible="true" weight="0.23032904" />
+      <window_info id="Structure" order="1" sideWeight="0.20240137" side_tool="true" visible="true" weight="0.23032904" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -963,12 +1056,12 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329235" />
-      <window_info anchor="bottom" x="1461" y="345" width="1214" height="215" id="Run" order="2" sideWeight="0.4950425" weight="0.18772137" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41440377" />
+      <window_info active="true" anchor="bottom" x="1461" y="345" width="1214" height="215" id="Run" order="2" sideWeight="0.4950425" visible="true" weight="0.20355192" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30327868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.19319728" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.19262294" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5049575" side_tool="true" weight="0.23360656" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.31420764" />
@@ -1087,121 +1180,16 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shell/ShellTest03.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="262" column="15" selection-start-line="262" selection-start-column="15" selection-end-line="262" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NIO/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NIO/test5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NIO/TestPipe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MeiTuan/MT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/TestGCHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tencent/ArrangeMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/BinaryTreeMirror.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/BinarySearchTreePosOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tencent/ConstructPlalindram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NowCoder/BuyDrinks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ctrip/SJDHAS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ctrip/Execrise1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/TwoStackToArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WeBank/WB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tencent/SongListQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tencent/ReverseArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1275,13 +1263,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/JavaHeapSpaceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1341,13 +1322,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/MyThreadPoolDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1455,23 +1429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WangYi/WangYiTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WangYi/WangYi4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WangYi/TestXXX.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1479,13 +1436,162 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WangYi/WangYi2.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/HHWW2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="123">
+          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xiaoyuan/Test14.java" />
+    <entry file="file://$PROJECT_DIR$/WangYi/WangYiTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WangYi/WangYi2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xiaoyuan/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xiaoyuan/Test04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/DeleteNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/HHWW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/Coding1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WangYi/WangYi4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WangYi/TrendTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/SemaphoreDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/CallableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/MyThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/VolatileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell/ShellTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell/ShellTest03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestThread8Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell/ShellTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell/ShellTest04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
         </state>
       </provider>
     </entry>
