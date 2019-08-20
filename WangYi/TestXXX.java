@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Date;
 
 /**
  * @author : mengmuzi
@@ -8,10 +8,8 @@ import java.util.Scanner;
 public class TestXXX {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int[] arr = new int[100];
-        arr[0] = scanner.nextInt();
-        System.out.println(arr);
+        Date date = new Date();
+        System.out.println(date);
     }
 
 }
