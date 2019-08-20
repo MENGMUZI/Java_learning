@@ -38,6 +38,7 @@
       <sourceFolder url="file://$MODULE_DIR$/redbook" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SenseTime" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/youzan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bilibili" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

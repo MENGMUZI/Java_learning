@@ -6,17 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74fdafeb-629c-49a0-82dc-f5061086a06f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SenseTime/SenseTime01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SenseTime/SenseTime02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SenseTime/SenseTime03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youzan/YanZan02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youzan/YouZan01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bilibili/Bilibili01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bilibili/Bilibili02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bilibili/Bilibili03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/360/Test360_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/360/Test360_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/360/Test360_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/360/Test360_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WangYi/TestXXX.java" beforeDir="false" afterPath="$PROJECT_DIR$/WangYi/TestXXX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_learning/TestXXX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_learning/TestXXX.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -76,75 +70,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/CyclicBarrierDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/MyThreadPoolDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/BlockingQueueDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-268">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/ProdCunsumer_TraditionalDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-175">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/ProdConsumer_BlockQueueDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="69" column="36" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SenseTime/SenseTime01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="25" column="44" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SenseTime/SenseTime02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="49" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SenseTime/SenseTime03.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -156,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/youzan/YouZan01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="-2">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,11 +90,77 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/youzan/YanZan02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+            <state relative-caret-position="142">
+              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NIO/TestBlockingNIO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NIO/TestBlockingNIO2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NIO/TestChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-279">
+              <caret line="186" column="33" selection-start-line="186" selection-start-column="33" selection-end-line="186" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NIO/TestBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1332">
+              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bilibili/Bilibili01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bilibili/Bilibili03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bilibili/Bilibili02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -202,9 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/com.atguigu.juc/TestThread8Monitor.java" />
-        <option value="$PROJECT_DIR$/com.atguigu.juc/TestScheduledThreadPool.java" />
-        <option value="$PROJECT_DIR$/com.atguigu.juc/TestForkJoinPool.java" />
         <option value="$PROJECT_DIR$/NIO/TestBlockingNIO2.java" />
         <option value="$PROJECT_DIR$/NIO/TestNonBlockingNIO2.java" />
         <option value="$PROJECT_DIR$/NIO/TestPipe.java" />
@@ -253,6 +241,9 @@
         <option value="$PROJECT_DIR$/SenseTime/SenseTime03.java" />
         <option value="$PROJECT_DIR$/youzan/YouZan01.java" />
         <option value="$PROJECT_DIR$/youzan/YanZan02.java" />
+        <option value="$PROJECT_DIR$/bilibili/Bilibili01.java" />
+        <option value="$PROJECT_DIR$/bilibili/Bilibili03.java" />
+        <option value="$PROJECT_DIR$/bilibili/Bilibili02.java" />
       </list>
     </option>
   </component>
@@ -317,72 +308,12 @@
             <path>
               <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="com.atguigu.juc" type="462c0819:PsiDirectoryNode" />
+              <item name="bilibili" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="com.atguigu.juc" type="462c0819:PsiDirectoryNode" />
-              <item name="TestThread8Monitor.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="JVMAndGC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="CallableDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="ProdConsumer_BlockQueueDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="ProdCunsumer_TraditionalDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="ReadWriteLockDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="ReentrantLockDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="SyncAndReentrantLockDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="TestTransferValue.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="GuiGuInterviewStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="VolatileDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="NIO" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
@@ -424,7 +355,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566288191902" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566302682341" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -462,23 +393,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.YanZan02">
-    <configuration name="RedBook02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RedBook02" />
+  <component name="RunManager" selected="Application.Bilibili02">
+    <configuration name="Bilibili01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bilibili01" />
       <module name="Java_learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RedBook3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RedBook3" />
+    <configuration name="Bilibili02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bilibili02" />
       <module name="Java_learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SenseTime01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SenseTime01" />
+    <configuration name="Bilibili03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bilibili03" />
       <module name="Java_learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -599,20 +530,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.ThreadUnsafeReviewDemo" />
-      <item itemvalue="Application.RedBook02" />
-      <item itemvalue="Application.RedBook3" />
       <item itemvalue="Spring Boot.MavendemoApplication" />
-      <item itemvalue="Application.SenseTime01" />
       <item itemvalue="Application.YouZan01" />
       <item itemvalue="Application.YanZan02" />
+      <item itemvalue="Application.Bilibili01" />
+      <item itemvalue="Application.Bilibili03" />
+      <item itemvalue="Application.Bilibili02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bilibili02" />
+        <item itemvalue="Application.Bilibili03" />
+        <item itemvalue="Application.Bilibili01" />
         <item itemvalue="Application.YanZan02" />
         <item itemvalue="Application.YouZan01" />
-        <item itemvalue="Application.SenseTime01" />
-        <item itemvalue="Application.RedBook3" />
-        <item itemvalue="Application.RedBook02" />
       </list>
     </recent_temporary>
   </component>
@@ -707,7 +638,7 @@
       <workItem from="1565866525987" duration="3126000" />
       <workItem from="1565960151916" duration="165000" />
       <workItem from="1566095323344" duration="9187000" />
-      <workItem from="1566138881932" duration="10467000" />
+      <workItem from="1566138881932" duration="14488000" />
     </task>
     <task id="LOCAL-00065" summary="Tencent试题">
       <created>1554391603886</created>
@@ -1088,7 +1019,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="916799000" />
+    <option name="totallyTimeSpent" value="920820000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1103,8 +1034,8 @@
     <frame x="0" y="23" width="1440" height="824" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7884972" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="1" sideWeight="0.21150278" side_tool="true" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7871287" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" sideWeight="0.21287128" side_tool="true" visible="true" weight="0.24964234" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -1113,12 +1044,12 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329235" />
-      <window_info active="true" anchor="bottom" x="1461" y="345" width="1214" height="215" id="Run" order="2" sideWeight="0.4950425" visible="true" weight="0.2636612" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44808742" />
+      <window_info anchor="bottom" x="1461" y="345" width="1214" height="215" id="Run" order="2" sideWeight="0.4950425" weight="0.2636612" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.44808742" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3114754" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21721311" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5049575" side_tool="true" weight="0.23360656" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.31420764" />
@@ -1274,70 +1205,21 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/youzan/YanZan02.java</url>
-          <line>14</line>
+          <url>file://$PROJECT_DIR$/bilibili/Bilibili03.java</url>
+          <line>22</line>
           <properties />
-          <option name="timeStamp" value="29" />
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/youzan/YanZan02.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/bilibili/Bilibili03.java</url>
+          <line>24</line>
           <properties />
-          <option name="timeStamp" value="30" />
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Xiaoyuan/Test14.java" />
-    <entry file="file://$PROJECT_DIR$/WangYi/WangYi2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Xiaoyuan/Test03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Xiaoyuan/Test04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/DeleteNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/HHWW.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/Coding1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WangYi/WangYi4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -1665,8 +1547,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/youzan/YouZan01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="-2">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1675,8 +1557,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/youzan/YanZan02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        <state relative-caret-position="142">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIO/TestBlockingNIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIO/TestBlockingNIO2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIO/TestChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="186" column="33" selection-start-line="186" selection-start-column="33" selection-end-line="186" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIO/TestBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1332">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bilibili/Bilibili01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bilibili/Bilibili03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bilibili/Bilibili02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
