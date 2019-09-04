@@ -43,6 +43,8 @@
       <sourceFolder url="file://$MODULE_DIR$/jingdong" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/kuaishou" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/alibaba" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tiger" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trip" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
