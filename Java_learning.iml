@@ -45,6 +45,9 @@
       <sourceFolder url="file://$MODULE_DIR$/alibaba" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tiger" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/trip" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hellobycle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wangyiyouxi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iqiyi" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

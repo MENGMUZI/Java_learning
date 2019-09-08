@@ -6,17 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74fdafeb-629c-49a0-82dc-f5061086a06f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/360/Test00001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/TX00004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/TXXX0003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/TXXX002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tencent/TencentTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiger/Tiger01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trip/Trip001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trip/Trip002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trip/Trip003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hellobycle/HelloBycle001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hellobycle/HelloBycle002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iqiyi/IQiYi001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iqiyi/IQiYi002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wangyiyouxi/YouXi001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wangyiyouxi/YouXi002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wangyiyouxi/YouXi003.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GuiGuInterviewStudy/CountryEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/GuiGuInterviewStudy/CountryEnum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_learning.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -77,42 +74,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com.atguigu.juc/TestCountDownLatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/CountDownLatchDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/CallableDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tiger/Tiger01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trip/Trip001.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
@@ -124,14 +85,96 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trip/Trip002.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+            <state relative-caret-position="144">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hellobycle/HelloBycle001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hellobycle/HelloBycle002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyiyouxi/YouXi001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyiyouxi/YouXi002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1058">
+              <caret line="85" column="39" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
+              <folding>
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#703#704#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#777#778#0" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
+                <element signature="e#867#868#0" expanded="true" />
+                <element signature="e#2725#2740#0" expanded="true" />
+                <element signature="e#2796#2805#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyiyouxi/YouXi003.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iqiyi/IQiYi001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iqiyi/IQiYi002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -140,39 +183,9 @@
         <entry file="file://$PROJECT_DIR$/trip/Trip003.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="655">
-              <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+              <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tencent/TXXX0003.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tencent/TX00004.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tencent/TXXX002.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -207,14 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Xiaoyuan/Test1.java" />
-        <option value="$PROJECT_DIR$/Xiaoyuan/Test14.java" />
-        <option value="$PROJECT_DIR$/Xiaoyuan/Test04.java" />
-        <option value="$PROJECT_DIR$/WangYi/TrendTest01.java" />
-        <option value="$PROJECT_DIR$/GuiGuInterviewStudy/JVMAndGC/HelloGC.java" />
-        <option value="$PROJECT_DIR$/shell/ShellTest01.java" />
-        <option value="$PROJECT_DIR$/shell/ShellTest03.java" />
-        <option value="$PROJECT_DIR$/shell/ShellTest02.java" />
         <option value="$PROJECT_DIR$/shell/ShellTest04.java" />
         <option value="$PROJECT_DIR$/PinDuoDuo/PinDuoDuoTest01.java" />
         <option value="$PROJECT_DIR$/PinDuoDuo/PinDuoDuo.java" />
@@ -256,8 +261,16 @@
         <option value="$PROJECT_DIR$/GuiGuInterviewStudy/CountryEnum.java" />
         <option value="$PROJECT_DIR$/tiger/Tiger01.java" />
         <option value="$PROJECT_DIR$/trip/Trip001.java" />
-        <option value="$PROJECT_DIR$/trip/Trip002.java" />
         <option value="$PROJECT_DIR$/trip/Trip003.java" />
+        <option value="$PROJECT_DIR$/trip/Trip002.java" />
+        <option value="$PROJECT_DIR$/hellobycle/HelloBycle001.java" />
+        <option value="$PROJECT_DIR$/hellobycle/HelloBycle002.java" />
+        <option value="$PROJECT_DIR$/wangyiyouxi/YouXi001.java" />
+        <option value="$PROJECT_DIR$/wangyiyouxi/YouXi002.java" />
+        <option value="$PROJECT_DIR$/wangyiyouxi/YouXi003.java" />
+        <option value="$PROJECT_DIR$/iqiyi/IQiYi.java" />
+        <option value="$PROJECT_DIR$/iqiyi/IQiYi002.java" />
+        <option value="$PROJECT_DIR$/iqiyi/IQiYi001.java" />
       </list>
     </option>
   </component>
@@ -362,6 +375,11 @@
             <path>
               <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="iqiyi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
               <item name="JavaBasicReview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -397,12 +415,12 @@
             <path>
               <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="WangYi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="WangYi" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyiyouxi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_learning" type="b2602c69:ProjectViewProjectNode" />
@@ -427,7 +445,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567602263966" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567933019863" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -465,30 +483,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Trip002">
-    <configuration name="CountryEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountryEnum" />
+  <component name="RunManager" selected="Application.YouXi002">
+    <configuration name="HelloBycle001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloBycle001" />
       <module name="Java_learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Person01" />
-      <module name="Java_learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TencentTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TencentTest01" />
-      <module name="Java_learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test00001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test00001" />
+    <configuration name="HelloBycle002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloBycle002" />
       <module name="Java_learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -501,8 +505,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trip002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trip002" />
+    <configuration name="YouXi001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YouXi001" />
+      <module name="Java_learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YouXi002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YouXi002" />
+      <module name="Java_learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YouXi003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YouXi003" />
       <module name="Java_learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -602,20 +620,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.ThreadUnsafeReviewDemo" />
-      <item itemvalue="Application.Person01" />
-      <item itemvalue="Application.Test00001" />
-      <item itemvalue="Application.TencentTest01" />
-      <item itemvalue="Application.CountryEnum" />
       <item itemvalue="Spring Boot.MavendemoApplication" />
-      <item itemvalue="Application.Trip002" />
+      <item itemvalue="Application.HelloBycle001" />
+      <item itemvalue="Application.HelloBycle002" />
+      <item itemvalue="Application.YouXi001" />
+      <item itemvalue="Application.YouXi002" />
+      <item itemvalue="Application.YouXi003" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Trip002" />
-        <item itemvalue="Application.CountryEnum" />
-        <item itemvalue="Application.TencentTest01" />
-        <item itemvalue="Application.Test00001" />
-        <item itemvalue="Application.Person01" />
+        <item itemvalue="Application.YouXi002" />
+        <item itemvalue="Application.YouXi003" />
+        <item itemvalue="Application.YouXi001" />
+        <item itemvalue="Application.HelloBycle002" />
+        <item itemvalue="Application.HelloBycle001" />
       </list>
     </recent_temporary>
   </component>
@@ -719,7 +737,7 @@
       <workItem from="1567183572012" duration="1535000" />
       <workItem from="1567247372101" duration="1735000" />
       <workItem from="1567321999985" duration="10072000" />
-      <workItem from="1567594667912" duration="5932000" />
+      <workItem from="1567594667912" duration="23445000" />
     </task>
     <task id="LOCAL-00065" summary="Tencent试题">
       <created>1554391603886</created>
@@ -1100,7 +1118,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="965694000" />
+    <option name="totallyTimeSpent" value="983207000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1115,8 +1133,8 @@
     <frame x="0" y="23" width="1440" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7246622" visible="true" weight="0.28183118" />
-      <window_info id="Structure" order="1" sideWeight="0.27533785" side_tool="true" visible="true" weight="0.28183118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.72401434" visible="true" weight="0.28183118" />
+      <window_info id="Structure" order="1" sideWeight="0.27598566" side_tool="true" visible="true" weight="0.28183118" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -1125,12 +1143,12 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329235" />
-      <window_info anchor="bottom" x="1461" y="345" width="1214" height="215" id="Run" order="2" sideWeight="0.4950425" visible="true" weight="0.19125684" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34557822" />
+      <window_info anchor="bottom" x="1461" y="345" width="1214" height="215" id="Run" order="2" sideWeight="0.4950425" visible="true" weight="0.23770492" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3442623" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1414966" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.14071038" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5049575" side_tool="true" weight="0.23360656" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.31420764" />
@@ -1355,79 +1373,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/360/Test360_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding/CopyListWithRand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding/GetMinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding/BinTreeRecur.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding/Code_11_MaxGap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding/LinkedIsPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding/SerialByLevel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding/SerialByPre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding/SpicalOrderPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Coding/TreeSetSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1681,7 +1626,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GuiGuInterviewStudy/CountDownLatchDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state>
           <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
         </state>
       </provider>
@@ -1737,19 +1682,116 @@
     <entry file="file://$PROJECT_DIR$/trip/Trip003.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="655">
-          <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="3798" column="34" lean-forward="true" selection-start-line="3798" selection-start-column="34" selection-end-line="3798" selection-end-column="34" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/trip/Trip002.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        <state relative-caret-position="144">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobycle/HelloBycle001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellobycle/HelloBycle002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyiyouxi/YouXi001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyiyouxi/YouXi002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="85" column="39" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#2725#2740#0" expanded="true" />
+            <element signature="e#2796#2805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyiyouxi/YouXi003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iqiyi/IQiYi002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iqiyi/IQiYi001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
