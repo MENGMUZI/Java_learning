@@ -48,6 +48,8 @@
       <sourceFolder url="file://$MODULE_DIR$/hellobycle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/wangyiyouxi" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iqiyi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/oppo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/xiaomi" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
